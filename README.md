@@ -15,8 +15,8 @@ The dashboard tracks the following core metrics to evaluate airline performance 
 - **Entertainment**
 
 🔹**Interactive Filters**: Users can explore the data by:
--**Data Ranges**: Analysis covering reviews from 2012 to 2023
--**Traveller Type**: (e.g.,Business, Couple Leisure, Family Leisure, Solo Leisure).
--**Aircraft Type**: Filter by different models(e.g., A319, A320, A321, A380, etc.)
--**Seat Type**:(Economy, Business, First Class, Premium Economy).
--**Choic**:Filter by variety of choice.(Rating, Entertainment, Ground Service, etc.)
+- **Data Ranges**: Analysis covering reviews from 2012 to 2023
+- **Traveller Type**: (e.g.,Business, Couple Leisure, Family Leisure, Solo Leisure).
+- **Aircraft Type**: Filter by different models(e.g., A319, A320, A321, A380, etc.)
+- **Seat Type**:(Economy, Business, First Class, Premium Economy).
+- **Choic**:Filter by variety of choice.(Rating, Entertainment, Ground Service, etc.)
