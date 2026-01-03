@@ -36,6 +36,6 @@ The dashboard tracks the following core metrics to evaluate airline performance 
 - Service Performance disparity shows that **Cabin Staff Service** consistenly receives the highest average ratings while the **Entertainment** frequently receives the lowest average ratings.
 
 🚀 **How to Use**
-- Download the .twbx file from this repository
+- Download the .twb file from this repository
 - Open it using Tableau Desktop or Tableau Reader
 - Use the filters to explore insights across different dimension
