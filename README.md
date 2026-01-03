@@ -30,7 +30,7 @@ The dashboard tracks the following core metrics to evaluate airline performance 
 - **Interactive Filters & Actions**
 
 📈 **Key Insights**
-- Seat comfort varies noticeably by aircraft model, with wide-body aircraft generally receiving higher ratings.
+- Seat comfort varies noticeably by aircraft model, with **wide-body** aircraft generally receiving higher ratings.
 - Geographic analysis reveals differences in perceived comfort across regions.
-- Customer satisfaction shows fluctuations over time, many reviews from the 2020-2021 period show higher-than-average satisfaction.
+- Customer satisfaction shows fluctuations over time, many reviews from the **2020-2021 period** show higher-than-average satisfaction.
 - Service Performance disparity shows that **Cabin Staff Service** consistenly receives the highest average ratings while the **Entertainment** frequently receives the lowest average ratings.
