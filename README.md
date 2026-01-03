@@ -22,3 +22,15 @@ The dashboard tracks the following core metrics to evaluate airline performance 
 - **Choic**:Filter by variety of choice.(Rating, Entertainment, Ground Service, etc.)
 
 🔹 **Geographic Heatmap**: Visualizes average scores across the globe, with darker shades indicating higher satisfaction levels.
+
+🛠️ **Tools & Technologies**
+- **Tableau Desktop**
+- **Data Visualization & Dashboard Design**
+- **Calculated Fields & Parameters**
+- **Interactive Filters & Actions**
+
+📈 **Key Insights**
+- Seat comfort varies noticeably by aircraft model, with wide-body aircraft generally receiving higher ratings.
+- Geographic analysis reveals differences in perceived comfort across regions.
+- Customer satisfaction shows fluctuations over time, many reviews from the 2020-2021 period show higher-than-average satisfaction.
+- Service Performance disparity shows that **Cabin Staff Service** consistenly receives the highest average ratings while the **Entertainment** frequently receives the lowest average ratings.
